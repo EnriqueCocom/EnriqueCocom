@@ -1,8 +1,4 @@
 <h1 align="center">Hi 👋, I'm Enrique Cocom</h1>
-
-<!--
-**EnriqueCocom/enriquecocom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 - 👋 Hi, My name is @EnriqueCocom
 - 👀 I’m interested in programming
@@ -14,4 +10,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+<!--
+**EnriqueCocom/enriquecocom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
