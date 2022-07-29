@@ -4,6 +4,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=enriquecocom" alt="enriquecocom" /></a> </p>
 
+-------------
+
 - 👀 I’m interested in programming.
 - 👨‍💻 I'm currently Student of Computer Systems Engineering.
 - 💞️ I’m looking to collaborate on Google, Microsoft o Facebook.
