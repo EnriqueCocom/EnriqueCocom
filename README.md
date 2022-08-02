@@ -14,9 +14,9 @@
 
 ### Databases :floppy_disk:
 
-| [<img src="https://www.postgresql.org/media/img/about/press/elephant.png" alt="postgres logo" width="40">](https://www.postgresql.org/) | [<img src="https://i0.wp.com/www.elearningworld.org/wp-content/uploads/2019/04/MySQL.svg.png" alt="mysql logo" width="60">](https://www.mysql.com/) | [<img src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg" alt="mongo logo" width="50">](https://www.mongodb.com/es) | |
-| --------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------- | ------ |
 
+| [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql logo" width="40">](https://www.mysql.com/)| [<img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" alt="postgresql logo" width="40">](https://www.postgresql.org/) | [<img src="https://www.svgrepo.com/show/331488/mongodb.svg" alt="electron logo" width="40">](https://www.mongodb.com/es) |
+| -------------------------------------------------------------------------- | ---------------------------------------------------------------------------- | -------------------------------------------------------------------------- |
 
 
 
