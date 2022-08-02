@@ -15,6 +15,13 @@
 
 ## Skills
 
+### Frameworks FrontEnd :package:
+| [<img src="https://cdn.worldvectorlogo.com/logos/vue-9.svg" alt="vue logo" width="40">](https://vuejs.org/)| [<img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" alt="react logo" width="40">](https://es.reactjs.org/)|
+| --------------------------------------------------------------------------| ---------------------------------------------------------------------------- |
+
+
+
+
 ### Programming Languages :computer:
 
 | [<img src="assets/javascript.png" alt="js logo" width="40">](https://developer.mozilla.org/en-US/docs/Web/JavaScript) | [<img src="assets/python3.svg" alt="python logo" width="50">](https://www.python.org/) | [<img src="assets/java.png" alt="ts logo" width="30">](https://www.java.com/es/) | [<img src="assets/bash.png" alt="bash logo" width="50">](https://www.gnu.org/software/bash/) |
@@ -62,3 +69,4 @@
 <!--
 **EnriqueCocom/enriquecocom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
+
