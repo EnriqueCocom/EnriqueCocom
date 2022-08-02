@@ -14,7 +14,7 @@
 
 ### Databases :floppy_disk:
 
-| [<img src="assets/postgres.svg" alt="postgres logo" width="40">](https://www.postgresql.org/) | [<img src="assets/mysql.png" alt="mysql logo" width="60">](https://www.mysql.com/) | [<img src="assets/mongo.png" alt="mongo logo" width="50">](https://www.mongodb.com/es) | [<img src="assets/sqlite.png" alt="sqlite logo" width="70">](https://www.sqlite.org/index.html) |
+| [<img src="https://www.postgresql.org/media/img/about/press/elephant.png" alt="postgres logo" width="40">](https://www.postgresql.org/) | [<img src="https://i0.wp.com/www.elearningworld.org/wp-content/uploads/2019/04/MySQL.svg.png" alt="mysql logo" width="60">](https://www.mysql.com/) | [<img src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg" alt="mongo logo" width="50">](https://www.mongodb.com/es) | |
 | --------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------- |
 
 
