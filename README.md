@@ -32,7 +32,7 @@
 
 ### Cloud :cloud:
 
-| [<img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure logo" width="40">](https://azure.microsoft.com/es-mx/) | [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/1920px-Amazon_Web_Services_Logo.svg.png" width="40">](https://aws.amazon.com/es/)
+| [<img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure logo" width="40">](https://azure.microsoft.com/en-in) | [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/1920px-Amazon_Web_Services_Logo.svg.png" width="40">](https://aws.amazon.com/es/)
 | ---------------------------------------------------------------------------- | -------------------------------------------------------------------------- | 
 
 
