@@ -15,6 +15,12 @@
 
 ## Skills
 
+### Programming Languages :computer:
+
+| [<img src="assets/javascript.png" alt="js logo" width="40">](https://developer.mozilla.org/en-US/docs/Web/JavaScript) | [<img src="assets/python3.svg" alt="python logo" width="50">](https://www.python.org/) | [<img src="assets/java.png" alt="ts logo" width="30">](https://www.java.com/es/) | [<img src="assets/bash.png" alt="bash logo" width="50">](https://www.gnu.org/software/bash/) |
+| --------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------- | --------------------------------------------------------------------------- | 
+
+
 ### Databases :floppy_disk:
 
 
