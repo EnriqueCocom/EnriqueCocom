@@ -35,8 +35,8 @@
 | -------------------------------------------------------------------------- | ---------------------------------------------------------------------------- | -------------------------------------------------------------------------- |---------------------------------------------------------|
 
 ### other technologies  :hammer_and_wrench:
-| [<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git logo" width="40">](https://git-scm.com/) | [<img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" width="40">](https://code.visualstudio.com/)
-| ---------------------------------------------------------------------------- | -------------------------------------------------------------------------- | 
+| [<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git logo" width="40">](https://git-scm.com/) | [<img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" width="40">](https://code.visualstudio.com/) |[<img src="https://res.cloudinary.com/postman/image/upload/t_team_logo/v1629869194/team/2893aede23f01bfcbd2319326bc96a6ed0524eba759745ed6d73405a3a8b67a8" width="40">](https://www.postman.com/) |
+| ---------------------------------------------------------------------------- | -------------------------------------------------------------------------- | -------------------------------- |
 
 
 
