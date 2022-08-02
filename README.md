@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Enrique Cocom</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=enriquecocom&label=Profile%20views&color=0e75b6&style=flat" alt="enriquecocom" /> </p>
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=enriquecocom" alt="enriquecocom" /></a> </p>
 
@@ -12,6 +12,17 @@
 - 📫 How to reach me enriquecocomcanul@gmail.com
 - 🧙‍♂️✨TEAM #IAWizards.
 
+### Databases :floppy_disk:
+
+| [<img src="assets/postgres.svg" alt="postgres logo" width="40">](https://www.postgresql.org/) | [<img src="assets/mysql.png" alt="mysql logo" width="60">](https://www.mysql.com/) | [<img src="assets/mongo.png" alt="mongo logo" width="50">](https://www.mongodb.com/es) | [<img src="assets/sqlite.png" alt="sqlite logo" width="70">](https://www.sqlite.org/index.html) |
+| --------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------- |
+
+
+
+
+
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/Henrik1493" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="henrik1493" height="30" width="40" /></a>
@@ -19,6 +30,8 @@
 <a href="https://www.instagram.com/enrique_cocom04/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="enrique_cocom04" height="30" width="40" /></a>
 <a href="https://www.twitch.tv/enriquecocom04" target="blank"><img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/twitch.svg" alt="Enrique Cocom#9331" height="30" width="40" /></a> 
 </p>
+
+
 
 <h3 align="left">Languages and Tools:</h3>
 
