@@ -18,9 +18,10 @@
 | [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql logo" width="40">](https://www.mysql.com/)| [<img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" alt="postgresql logo" width="40">](https://www.postgresql.org/) | [<img src="https://www.svgrepo.com/show/331488/mongodb.svg" alt="electron logo" width="40">](https://www.mongodb.com/es) |
 | -------------------------------------------------------------------------- | ---------------------------------------------------------------------------- | -------------------------------------------------------------------------- |
 
+### Cloud :cloud:
 
-
-
+| [<img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure logo" width="40">](https://azure.microsoft.com/es-mx/) | [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/1920px-Amazon_Web_Services_Logo.svg.png" width="40">](https://aws.amazon.com/es/)
+| ---------------------------------------------------------------------------- | -------------------------------------------------------------------------- | 
 
 
 <h3 align="left">Connect with me:</h3>
