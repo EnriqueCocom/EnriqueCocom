@@ -18,8 +18,8 @@
 ### Databases :floppy_disk:
 
 
-| [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql logo" width="40">](https://www.mysql.com/)| [<img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" alt="postgresql logo" width="40">](https://www.postgresql.org/) | [<img src="https://www.svgrepo.com/show/331488/mongodb.svg" alt="electron logo" width="40">](https://www.mongodb.com/es) |
-| -------------------------------------------------------------------------- | ---------------------------------------------------------------------------- | -------------------------------------------------------------------------- |
+| [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql logo" width="40">](https://www.mysql.com/)| [<img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" alt="postgresql logo" width="40">](https://www.postgresql.org/) | [<img src="https://www.svgrepo.com/show/331488/mongodb.svg" alt="electron logo" width="40">](https://www.mongodb.com/es) | [<img src="https://cdn.worldvectorlogo.com/logos/sqlite.svg" alt="sqlite logo" width="70">](https://www.sqlite.org/index.html) |
+| -------------------------------------------------------------------------- | ---------------------------------------------------------------------------- | -------------------------------------------------------------------------- |---------------------------------------------------------|
 
 ### Tools & other technologies  :hammer_and_wrench:
 | [<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git logo" width="40">](https://git-scm.com/) | [<img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" width="40">](https://code.visualstudio.com/)
