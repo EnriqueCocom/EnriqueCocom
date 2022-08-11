@@ -36,7 +36,7 @@
 ### Databases :floppy_disk:
 
 
-| [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql logo" width="40">](https://www.mysql.com/)| [<img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" alt="postgresql logo" width="40">](https://www.postgresql.org/) | [<img src="https://www.svgrepo.com/show/331488/mongodb.svg" alt="electron logo" width="40">](https://www.mongodb.com/es) | [<img src="https://cdn.worldvectorlogo.com/logos/sqlite.svg" alt="sqlite logo" width="70">](https://www.sqlite.org/index.html) |
+| [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql logo" width="40">](https://www.mysql.com/)| [<img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" alt="postgresql logo" width="40">](https://www.postgresql.org/) | [<img src="https://www.svgrepo.com/show/331488/mongodb.svg" alt="electron logo" width="40">](https://www.mongodb.com/es) | [<img src="https://cdn.worldvectorlogo.com/logos/sqlite.svg" alt="sqlite logo" width="50">](https://www.sqlite.org/index.html) |
 | -------------------------------------------------------------------------- | ---------------------------------------------------------------------------- | -------------------------------------------------------------------------- |---------------------------------------------------------|
 
 ### other technologies  :hammer_and_wrench:
@@ -63,7 +63,7 @@
 <h3 align="left">Languages and Tools:</h3>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=enriquecocom&show_icons=true&locale=en&layout=compact" alt="enriquecocom" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=enriquecocom&show_icons=true&locale=en&layout=compact" alt="enriquecocom" </p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=enriquecocom&show_icons=true&locale=en" alt="enriquecocom" /></p>
 
