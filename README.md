@@ -30,8 +30,8 @@
 
 
 ### Tools SRE 🛠️
-| [<img src="assets/docker.png" alt="docker logo" width="50">](https://www.docker.com/) | [<img src="assets/docker-compose-mini.png" alt="compose logo" width="50">](https://docs.docker.com/compose/) | [<img src="assets/kubernetes01.png" alt="kubernetes logo" width="50">](https://kubernetes.io/es/docs/concepts/overview/what-is-kubernetes/) 
-|---------------------------------------------------------------------------------------|-------------------------------------------------------------------------|------------------------ |
+| [<img src="assets/docker.png" alt="docker logo" width="50">](https://www.docker.com/) | [<img src="assets/docker-compose-mini.png" alt="compose logo" width="50">](https://docs.docker.com/compose/) | [<img src="assets/kubernetes01.png" alt="kubernetes logo" width="50">](https://kubernetes.io/es/docs/concepts/overview/what-is-kubernetes/) | [<img src="assets/nginx.png" alt="nginx logo" width="40">](https://www.nginx.com/)
+|---------------------------------------------------------------------------------------|-------------------------------------------------------------------------|------------------------ |------------------------------------------------------------------|
 
 ### Databases :floppy_disk:
 
