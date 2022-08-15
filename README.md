@@ -20,7 +20,7 @@
 | --------------------------------------------------------------------------| ---------------------------------------------------------------------------- |
 
 ### Frameworks BackEnd :package:
-| [<img src="assets/node.svg" alt="node logo" width="50">](https://nodejs.org/es/) |
+| [<img src="assets/node.svg" alt="node logo" width="40">](https://nodejs.org/es/) |
 |-----------------------------------------------|
 
 ### Programming Languages :computer:
