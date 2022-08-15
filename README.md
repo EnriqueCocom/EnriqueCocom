@@ -63,10 +63,11 @@
 <h3 align="left">Languages and Tools:</h3>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=enriquecocom&show_icons=true&locale=en&layout=compact" alt="enriquecocom" /></p>
-
-<p>&nbsp;<img align="righ" src="https://github-readme-stats.vercel.app/api?username=enriquecocom&show_icons=true&locale=en" alt="enriquecocom" /></p>
-
+<p align="left">
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=enriquecocom&show_icons=true&locale=en&layout=compact" alt="enriquecocom" />
+<img src="https://github-readme-stats.vercel.app/api?username=enriquecocom&show_icons=true&locale=en" alt="enriquecocom" />
+ <br>
+</p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=enriquecocom&" alt="enriquecocom" /></p>
 
