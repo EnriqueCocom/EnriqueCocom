@@ -6,7 +6,7 @@
 
 -------------
 
-- 👀 I’m interested in programming.
+- 👀 I'm interested in programming and cybersecurity
 - 👨‍💻 I'm currently Student of Computer Systems Engineering.
 - 💞️ I’m looking to collaborate on Google, Microsoft o Facebook.
 - 📫 How to reach me enriquecocomcanul@gmail.com
