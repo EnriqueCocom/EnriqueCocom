@@ -20,8 +20,8 @@
 | --------------------------------------------------------------------------| ---------------------------------------------------------------------------- |
 
 ### Frameworks BackEnd :package:
-| [<img src="assets/node.svg" alt="node logo" width="40">](https://nodejs.org/es/) |
-|-----------------------------------------------|
+| [<img src="assets/node.svg" alt="node logo" width="60">](https://nodejs.org/es/) | [<img src="assets/django.png" alt="django logo" width="70">](https://www.djangoproject.com/)|
+|-----------------------------------------------|------------------------------------------------------------------------|
 
 ### Programming Languages :computer:
 
