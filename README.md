@@ -16,8 +16,8 @@
 ## Skills
 
 ### Frameworks FrontEnd :package:
-| [<img src="https://cdn.worldvectorlogo.com/logos/vue-9.svg" alt="vue logo" width="45">](https://vuejs.org/)| [<img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" alt="react logo" width="45">](https://es.reactjs.org/)|
-| ---------------------------------------------------------------------------------------------------| ---------------------------------------------------------------------------------------------------- |
+| [<img src="https://cdn.worldvectorlogo.com/logos/vue-9.svg" alt="vue logo" width="45">](https://vuejs.org/)| [<img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" alt="react logo" width="45">](https://es.reactjs.org/)| [<img src="https://github.com/ionic-team/ionic-framework/blob/main/.github/assets/logo.png?raw=true" alt="ionic logo" width="45">](https://ionicframework.com/)|
+| ---------------------------------------------------------------------------------------------------| ---------------------------------------------------------------------------------------------------- |-----------------------------|
 
 ### Frameworks BackEnd :package:
 | [<img src="assets/node.svg" alt="node logo" width="60">](https://nodejs.org/es/) | [<img src="assets/django.png" alt="django logo" width="70">](https://www.djangoproject.com/) | [<img src="assets/djrest.png" title="drf" alt="drf" width="70">](https://www.django-rest-framework.org/) |
